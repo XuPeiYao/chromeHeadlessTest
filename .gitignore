@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 chromeHeadlessTest/.local-chromium/Win64-564778/chrome-win32/69.0.3452.0.manifest
+chromeHeadlessTest/.local-chromium/
